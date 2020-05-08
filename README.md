@@ -1,6 +1,6 @@
 # flutter_budget_ui
 
-A Demo UI for Budget App.
+> A Demo UI for Budget App.
 https://marcus-ng.com/courses/764266/
 
 ## Budget App
@@ -15,3 +15,10 @@ https://marcus-ng.com/courses/764266/
 - Category Screen (4:36)
 - Custom Painter - Radial Progress Bar (10:38)
 - Expense List (6:18)
+
+***
+![Alt text](/screenshots/flutter_01.png?raw=true "Home Screen")
+***
+![Alt text](/screenshots/flutter_02.png?raw=true "Category Screen")
+***
+![Alt text](/screenshots/flutter_03.png?raw=true "List of expense")
