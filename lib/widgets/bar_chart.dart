@@ -14,7 +14,7 @@ class BarChart extends StatelessWidget {
     });
     List<String> week = ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'];
     return Padding(
-      padding: const EdgeInsets.all(15.0),
+      padding: const EdgeInsets.all(12.0),
       child: Column(
         children: <Widget>[
           Text(
