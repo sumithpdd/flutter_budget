@@ -17,8 +17,8 @@ https://marcus-ng.com/courses/764266/
 - Expense List (6:18)
 
 ***
-![Alt text](/screenshots/flutter_01.png?raw=true "Home Screen")
+![Alt text](/Screenshots/flutter_01.png?raw=true "Home Screen")
 ***
-![Alt text](/screenshots/flutter_02.png?raw=true "Category Screen")
+![Alt text](/Screenshots/flutter_02.png?raw=true "Category Screen")
 ***
-![Alt text](/screenshots/flutter_03.png?raw=true "List of expense")
+![Alt text](/Screenshots/flutter_03.png?raw=true "List of expense")
